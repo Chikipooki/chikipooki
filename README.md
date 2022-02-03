@@ -1,4 +1,4 @@
-### 👋 Welcome to my [![header](https://github.com/Chikipooki/chikipooki/blob/Master-Jedi/assets/GitHub%20img.jpg)](https://github.com/Chikipooki) page!
+### [![header](https://github.com/Chikipooki/chikipooki/blob/Master-Jedi/assets/GitHub%20img.jpg)](https://github.com/Chikipooki) 
 
 <!--
 **Chikipooki/chikipooki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
