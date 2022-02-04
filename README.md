@@ -2,7 +2,7 @@
 ### [![header](https://github.com/Chikipooki/chikipooki/blob/Master-Jedi/assets/Header%20img.png)](https://github.com/Chikipooki) 
 
 <!--Tools and Languages-->
-## Proficient:
+## Experience:
 ![С#](https://img.shields.io/badge/-C%23-282a36?style=for-the-badge&logo=Csharp&logoColor=violet)
 ![.Net](https://img.shields.io/badge/-Framework-282a36?style=for-the-badge&logo=.net&logoColor=)
 ![WPF](https://img.shields.io/badge/-WPF-282a36?style=for-the-badge&logo=xaml&logoColor=)
