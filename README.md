@@ -12,7 +12,7 @@
 
 <!--Info-->
 ## ⭐️ About me
-📝Hello! My name is Alexey, I am 26 years old. I am a beginner game and software developer. I have been programming for about 3 years, trying different technologies. I study at the university with a degree in IT, my favorite language at the moment is C#.
+📝Hello! My name is Alexey, I am 27 years old. I am a beginner game and software developer. My favorite language at the moment is C#.
 
 🎓I have experience in developing applications for Windows using WPF and WinForms, creating mobile applications. In addition, I have worked closely with a game engine such as Unity.
 
